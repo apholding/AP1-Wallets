@@ -1,7 +1,8 @@
 # APH Wallets
 
-our Socialmedia channels
+How to contact us and our Socialmedia channels
 
+Telgram support: @aphsupport
 ```bash
 https://twitter.com/apholding
 ```
