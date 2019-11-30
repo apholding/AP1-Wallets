@@ -2,6 +2,8 @@
 
 How to contact us and our Socialmedia channels:
 
+
+
 ```bash
 Telgram support: @aphsupport
 ```
@@ -10,4 +12,7 @@ https://twitter.com/apholding
 ```
 ```bash
 https://apholding.org
+```
+```bash
+https://trello.com/b/RPzbPCud/apholding
 ```
