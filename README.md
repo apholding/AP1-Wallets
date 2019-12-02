@@ -8,6 +8,9 @@ How to contact us and our Socialmedia channels:
 Telgram support: @aphsupport
 ```
 ```bash
+Telgram channel: https://t.me/apholdingorg
+```
+```bash
 https://twitter.com/apholding
 ```
 ```bash
