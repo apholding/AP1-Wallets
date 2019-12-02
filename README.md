@@ -11,7 +11,7 @@ Telgram support: @aphsupport
 Telgram channel: https://t.me/apholdingorg
 ```
 ```bash
-https://twitter.com/apholding
+https://twitter.com/apholdingorg
 ```
 ```bash
 https://apholding.org
