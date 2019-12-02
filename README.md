@@ -16,3 +16,5 @@ https://apholding.org
 ```bash
 https://trello.com/b/RPzbPCud/apholding
 ```
+
+For the swap please contact us on Telegram directly! 
