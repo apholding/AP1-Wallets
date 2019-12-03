@@ -1,5 +1,15 @@
 # APH Wallets
 
+news about the chain:
+
+debugconsole you can check:
+getblockhash 21400
+output: "d46bceba3651e43c219dbac5735f18c620e32d3a7286d88e947c02c58a41a3c9"
+
+if you have another, safe wallet first, and use resync in the wallet repair.
+
+
+
 How to contact us and our Socialmedia channels:
 
 
