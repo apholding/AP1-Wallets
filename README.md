@@ -4,11 +4,11 @@ news about the chain:
 
 debugconsole you can check:
 ```bash
-getblockhash 21400
+getblockhash 24900
 ```
 
 ```bash
-output should be: d46bceba3651e43c219dbac5735f18c620e32d3a7286d88e947c02c58a41a3c9
+output should be: 88d701bf92965887779391516707c93c04ce4aa40c9080783b5287510f6cc2ae
 ```
 
 
