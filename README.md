@@ -3,6 +3,8 @@
 For better connections: 
 ```bash
 addnode=178.254.28.153
+addnode=178.254.9.11
+addnode=178.254.12.25
 ```
 
 news about the chain:
