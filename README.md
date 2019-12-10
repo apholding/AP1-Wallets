@@ -1,5 +1,10 @@
 # APH Wallets
 
+For better connections: 
+```bash
+addnode=178.254.28.153
+```
+
 news about the chain:
 
 debugconsole you can check:
