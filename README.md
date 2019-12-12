@@ -8,6 +8,7 @@ addnode=178.254.12.25
 addnode=104.192.5.184
 addnode=178.254.29.39
 addnode=82.165.116.94
+addnode=74.208.253.102
 ```
 
 news about the chain:
