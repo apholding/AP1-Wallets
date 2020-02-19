@@ -12,8 +12,6 @@ addnode=74.208.253.102
 ```
 
 
-if you have another, safe wallet first, and use resync in the wallet repair.
-
 ------
 
 How to contact us and our Socialmedia channels:
