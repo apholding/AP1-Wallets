@@ -134,8 +134,8 @@ For the swap please contact us on Telegram directly!
   <td class=xl6617252>40</td>
   <td class=xl6617252>80</td>
   <td class=xl6617252>20</td>
-  <td class=xl6717252 align=right>36</td>
-  <td class=xl6817252 align=right>9</td>
+  <td class=xl6717252 align=right>32</td>
+  <td class=xl6817252 align=right>8</td>
   </tr>
   <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6417252 style='height:15.75pt'>1800001-2400000</td>
