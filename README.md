@@ -109,8 +109,42 @@ For the swap please contact us on Telegram directly!
   <td class=xl6617252>20</td>
   <td class=xl6717252 align=right>36</td>
   <td class=xl6817252 align=right>9</td>
-
-
+ </tr>
+  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl6417252 style='height:15.75pt'>500001-800000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>50</td>
+  <td class=xl6617252>80</td>
+  <td class=xl6617252>20</td>
+  <td class=xl6717252 align=right>40</td>
+  <td class=xl6817252 align=right>10</td>
+ </tr>
+  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl6417252 style='height:15.75pt'>800001-1200000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>45</td>
+  <td class=xl6617252>80</td>
+  <td class=xl6617252>20</td>
+  <td class=xl6717252 align=right>36</td>
+  <td class=xl6817252 align=right>9</td>
+  </tr>
+  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl6417252 style='height:15.75pt'>1200001-1800000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>40</td>
+  <td class=xl6617252>80</td>
+  <td class=xl6617252>20</td>
+  <td class=xl6717252 align=right>36</td>
+  <td class=xl6817252 align=right>9</td>
+  </tr>
+  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl6417252 style='height:15.75pt'>1800001-2400000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>35</td>
+  <td class=xl6617252>80</td>
+  <td class=xl6617252>20</td>
+  <td class=xl6717252 align=right>28</td>
+  <td class=xl6817252 align=right>7</td>
  </table>
 
 
