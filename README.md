@@ -28,7 +28,7 @@ Telgram support: @aphsupport
 Telgram channel: https://t.me/apholdingorg
 ```
 ```bash
-https://twitter.com/apholdingorg
+https://twitter.com/aphcoinofficial
 ```
 ```bash
 https://apholding.org
@@ -93,32 +93,23 @@ For the swap please contact us on Telegram directly!
   <td class=xl6817252 align=right>4</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
-  <td height=21 class=xl6417252 style='height:15.75pt'>80001-1500000</td>
-  <td class=xl6517252>100000</td>
-  <td class=xl6617252>15</td>
+  <td height=21 class=xl6417252 style='height:15.75pt'>80001-250000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>40</td>
   <td class=xl6617252>80</td>
   <td class=xl6617252>20</td>
-  <td class=xl6717252 align=right>12</td>
-  <td class=xl6817252 align=right>3</td>
+  <td class=xl6717252 align=right>32</td>
+  <td class=xl6817252 align=right>8</td>
  </tr>
   <tr height=21 style='mso-height-source:userset;height:15.75pt'>
-  <td height=21 class=xl6417252 style='height:15.75pt'>150001-2000000</td>
-  <td class=xl6517252>100000</td>
-  <td class=xl6617252>10</td>
+  <td height=21 class=xl6417252 style='height:15.75pt'>250001-2000000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>45</td>
   <td class=xl6617252>80</td>
   <td class=xl6617252>20</td>
-  <td class=xl6717252 align=right>8</td>
-  <td class=xl6817252 align=right>2</td>
- </tr>
-  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
-  <td height=21 class=xl6417252 style='height:15.75pt'>2000001-</td>
-  <td class=xl6517252>100000</td>
-  <td class=xl6617252>5</td>
-  <td class=xl6617252>80</td>
-  <td class=xl6617252>20</td>
-  <td class=xl6717252 align=right>4</td>
-  <td class=xl6817252 align=right>1</td>
- </tr>
+  <td class=xl6717252 align=right>36</td>
+  <td class=xl6817252 align=right>9</td>
+
 
  </table>
 
