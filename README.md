@@ -145,6 +145,60 @@ For the swap please contact us on Telegram directly!
   <td class=xl6617252>20</td>
   <td class=xl6717252 align=right>28</td>
   <td class=xl6817252 align=right>7</td>
+  </tr>
+  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl6417252 style='height:15.75pt'>2400001-3000000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>30</td>
+  <td class=xl6617252>80</td>
+  <td class=xl6617252>20</td>
+  <td class=xl6717252 align=right>24</td>
+  <td class=xl6817252 align=right>6</td>
+  </tr>
+  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl6417252 style='height:15.75pt'>3000001-3500000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>25</td>
+  <td class=xl6617252>80</td>
+  <td class=xl6617252>20</td>
+  <td class=xl6717252 align=right>20</td>
+  <td class=xl6817252 align=right>5</td>
+  </tr>
+  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl6417252 style='height:15.75pt'>3500001-4000000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>20</td>
+  <td class=xl6617252>80</td>
+  <td class=xl6617252>20</td>
+  <td class=xl6717252 align=right>16</td>
+  <td class=xl6817252 align=right>4</td>
+  </tr>
+  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl6417252 style='height:15.75pt'>4000001-4500000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>15</td>
+  <td class=xl6617252>80</td>
+  <td class=xl6617252>20</td>
+  <td class=xl6717252 align=right>12</td>
+  <td class=xl6817252 align=right>3</td>
+  </tr>
+  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl6417252 style='height:15.75pt'>4500001-5000000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>10</td>
+  <td class=xl6617252>80</td>
+  <td class=xl6617252>20</td>
+  <td class=xl6717252 align=right>8</td>
+  <td class=xl6817252 align=right>2</td>
+  </tr>
+  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl6417252 style='height:15.75pt'>1800001-2400000</td>
+  <td class=xl6517252>75000</td>
+  <td class=xl6617252>35</td>
+  <td class=xl6617252>80</td>
+  <td class=xl6617252>20</td>
+  <td class=xl6717252 align=right>28</td>
+  <td class=xl6817252 align=right>7</td>
  </table>
 
 
