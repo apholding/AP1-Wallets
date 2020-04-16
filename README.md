@@ -72,7 +72,7 @@ For the swap please contact us on Telegram directly!
   <td class=xl6317252 width=107 style='width:81pt'>MN Reward %</td>
   <td class=xl6317252 width=134 style='width:100pt'>Staking Reward %</td>
   <td class=xl6317252 width=107 style='width:81pt'>MN Reward</td>
-  <td class=xl6317252 width=107 style='width:81pt'>Staker Reward</td>
+  <td class=xl6317252 width=107 style='width:81pt'>Staking Reward</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6417252 style='height:15.75pt'>1-1000</td>
