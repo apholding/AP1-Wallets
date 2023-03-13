@@ -5,11 +5,9 @@ Masternode Collateral: 75000
 
 For better connections: 
 ```bash
-addnode=178.254.28.153
-addnode=178.254.9.11
-addnode=178.254.12.25
-addnode=178.254.29.39
-addnode=82.165.116.94
+addnode=38.242.142.230
+addnode=78.141.195.39
+addnode=149.102.140.17
 ```
 
 
@@ -19,21 +17,7 @@ How to contact us and our Socialmedia channels:
 
 
 
-```bash
-Telgram support: @aphsupport
-```
-```bash
-Telgram channel: https://t.me/apholdingorg
-```
-```bash
-https://twitter.com/aphcoinofficial
-```
-```bash
-https://apholding.org
-```
-```bash
-https://trello.com/b/RPzbPCud/apholding
-```
+
 
 For the swap please contact us on Telegram directly! 
 
