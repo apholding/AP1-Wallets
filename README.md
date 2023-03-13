@@ -33,7 +33,7 @@ For the swap please contact us on Telegram directly!
 • Prefix: APH adresses start with the capital letter "G"  
 • Ports: 16364 (p2p) / 16363 (rpc)
 
-• Explorer http://explorer.apholding.org
+• Explorer http://78.141.195.39
 
 
 ### Rewards Breakdown
