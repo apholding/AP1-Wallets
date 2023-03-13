@@ -15,11 +15,9 @@ addnode=149.102.140.17
 
 How to contact us and our Socialmedia channels:
 
-
-
-
-
-For the swap please contact us on Telegram directly! 
+```bash
+Discord:  https://discord.gg/gubkfzt
+```
 
 
 ### Coin Specs
