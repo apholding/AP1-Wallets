@@ -15,8 +15,9 @@ addnode=149.102.140.17
 
 How to contact us and our Socialmedia channels:
 
+Discord: 
 ```bash
-Discord:  https://discord.gg/gubkfzt
+https://discord.gg/gubkfzt
 ```
 
 
