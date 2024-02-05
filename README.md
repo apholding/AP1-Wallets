@@ -1,13 +1,11 @@
 # APH Wallets
 
-Masternode Collateral: 75000
+Masternode Collateral: 100000
 
 
 For better connections: 
 ```bash
-addnode=38.242.142.230
-addnode=78.141.195.39
-addnode=149.102.140.17
+addnode=144.91.111.155
 ```
 
 
@@ -23,16 +21,16 @@ https://discord.gg/gubkfzt
 
 ### Coin Specs
 
-• PoW Algorithm: Quark  
-• Premine: 55000000 APH
-• PoW Blocks: 1 - 1000  
-• PoS Blocks: Starting from 1001 
-• Block Time: 60 Seconds    
-• Maturity: 15 Confirmations  
-• Prefix: APH adresses start with the capital letter "G"  
+• POS/ MN Coin
+• Premine: 106000000 APH
+• PoW Blocks: 1 - 500  
+• PoS Blocks: Starting from 501
+• Block Time: 120 Seconds    
+• Maturity: 30 Confirmations  
+• Prefix: APH adresses start with the capital letter "A"  
 • Ports: 16364 (p2p) / 16363 (rpc)
 
-• Explorer http://78.141.195.39
+• Explorer coming soon 
 
 
 ### Rewards Breakdown
