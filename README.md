@@ -3,11 +3,6 @@
 Masternode Collateral: 100000
 
 
-For better connections: 
-```bash
-addnode=144.91.111.155
-```
-
 
 ------
 
