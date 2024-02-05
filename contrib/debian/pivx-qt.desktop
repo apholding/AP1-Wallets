@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=APH
+Comment= APH P2P Cryptocurrency
+Comment[fr]= APH, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= APH, eşten eşe kriptografik sanal para birimi
+Exec=APH-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=APH-qt
