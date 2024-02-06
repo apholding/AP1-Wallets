@@ -1,4 +1,4 @@
-# APH Wallets
+# APH Wallets   MANUAL SWAP! 
 
 Masternode Collateral: 100000
 
