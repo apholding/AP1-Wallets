@@ -1,18 +1,16 @@
 # APH Wallets   MANUAL SWAP! 
 
-Masternode Collateral: 100000
-
-
+Fix Masternode Collateral: 100000
 
 ------
 
-How to contact us and our Socialmedia channels:
+How to contact us and contact Brady for the Swap! 
 
 Discord: 
 ```bash
 https://discord.gg/gubkfzt
 ```
-
+### Swap ends: 15 March 2024
 
 ### Coin Specs
 
