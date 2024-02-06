@@ -21,7 +21,7 @@ https://discord.gg/gubkfzt
 • Block Time: 120 Seconds    
 • Maturity: 30 Confirmations  
 • Prefix: APH adresses start with the capital letter "A"  
-• Ports: 16364 (p2p) / 16363 (rpc)
+• Ports: 27550 (p2p) / 27549 (rpc)
 
 • Explorer coming soon 
 
